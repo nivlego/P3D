@@ -10,3 +10,4 @@ Please extract them all so that Assets, Build, Library, Logs, Obj, Packages, Pro
 
 To reiterate: There will be 3 .7z files. "Assets.7z", "Build.7z" and "p3d.7z". These 3 should all be on the same level when extracted, as assets contains only assets, build contains only build, but p3d contains all other important files for a project to run. 
 
+https://drive.google.com/file/d/1TVDuNTnC7hsWnxi-MIsGQuxZCW0rkNYf/view?usp=share_link
